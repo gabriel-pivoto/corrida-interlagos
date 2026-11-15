@@ -1,0 +1,4 @@
+Texturas fotográficas: ambientCG (https://ambientcg.com), licença CC0 1.0 (domínio público).
+Asphalt031, Grass004, Concrete034, Ground037, Bark014, CorrugatedSteel009, Rubber004.
+Demais texturas (zebras, quadriculado, torcida, painéis, fibra de carbono, pneu, folhas, céu)
+são geradas pelo próprio projeto (Assets/Editor/MaterialLibrary.cs).
